@@ -6,5 +6,5 @@
 
 
 #### Additional resources
-* [BeagleV Starlight beta protoype](https://github.com/beagleboard/beaglev-starlight)
+* [BeagleV Starlight beta protoype design](https://github.com/beagleboard/beaglev-starlight)
 * [BeagleV public forum](https://forum.beagleboard.org/c/beaglev/)
