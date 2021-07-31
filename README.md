@@ -7,8 +7,3 @@
 * [SiFive E24 user guide](https://github.com/starfive-tech/beaglev_doc/blob/main/SiFive%20VIC_E24%20User%20Guide.pdf)
 * [JH7100 SoC Boot User Guide](https://github.com/starfive-tech/beaglev_doc/blob/main/JH7100%20SoC%20Boot%20User%20Guide-V01(2021-6-7).pdf)
 
-
-
-#### Additional resources
-* [BeagleV Starlight beta protoype design](https://github.com/beagleboard/beaglev-starlight)
-* [BeagleV public forum](https://forum.beagleboard.org/c/beaglev/)
